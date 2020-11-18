@@ -2261,7 +2261,8 @@ Give this page a few seconds to load all the emojis and then click the topmost b
 
 ---
 
-# Ah, I see you've made it to the bottom of the page & for that, I have a present for you:
+# Ah, I see you've made it to the bottom of the page & for that, I have got a present for you.
+## Here ya go:
 ![Confused Cat](https://user-images.githubusercontent.com/67306137/99478534-8f307a80-297a-11eb-9a5d-b246028784a8.gif)
 ###### Aww, Cute confused cats.![cat-profile](https://user-images.githubusercontent.com/67306137/99478426-614b3600-297a-11eb-9dc7-ecc4af5286fd.png)
 
