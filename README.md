@@ -8,13 +8,13 @@
 Since you're here, I challenge you to a game of Tic-Tac-Toe. 
 Give this page a few seconds to load all the emojis and then click the topmost box to start playing.
 
-Xs go first, click one of the nine boxes to make your move.
+X's go first, click one of the nine boxes to make your move.
 
-_If for some reason the buttons are not clickable, try reloading the page. Sometimes GitHub can't handle all the emojis._
+***Note:-***_If for some reason the buttons are not clickable, try reloading the page. Sometimes GitHub can't handle all the emojis._
 
 [Take me to the bottom](#bottom)
 
-# Alright, Enough Chit Chat, Let's Play! 
+## Alright, Enough Chit Chat, Let's Play! 
 
 ---
 <a name="root"></a><br/><br/><br/>
@@ -2264,7 +2264,7 @@ _If for some reason the buttons are not clickable, try reloading the page. Somet
 # Ah, I see you've made it to the bottom of the page & for that, I have a present for you:
 ![Confused Cat](https://user-images.githubusercontent.com/67306137/99478534-8f307a80-297a-11eb-9a5d-b246028784a8.gif)
 
-Aww, Cute confused cats. ![cat-profile](https://user-images.githubusercontent.com/67306137/99478426-614b3600-297a-11eb-9dc7-ecc4af5286fd.png)
+######Aww, Cute confused cats.![cat-profile](https://user-images.githubusercontent.com/67306137/99478426-614b3600-297a-11eb-9dc7-ecc4af5286fd.png)
 
 
 
